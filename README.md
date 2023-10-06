@@ -1,2 +1,3 @@
 # YaraRules
-Collection of Yara Rules Created by Me
+
+Collection of Yara Rules Created by Me for practice
